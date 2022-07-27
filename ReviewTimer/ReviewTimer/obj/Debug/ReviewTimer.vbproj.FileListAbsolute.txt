@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi4-week3\ReviewTimer\ReviewTimer\bin\Debug\ReviewTimer.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi4-week3\ReviewTimer\ReviewTimer\obj\Debug\ReviewTimer.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi4-week3\ReviewTimer\ReviewTimer\obj\Debug\ReviewTimer.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi4-week3\ReviewTimer\ReviewTimer\obj\Debug\ReviewTimer.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi4-week3\ReviewTimer\ReviewTimer\bin\Debug\ReviewTimer.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi4-week3\ReviewTimer\ReviewTimer\bin\Debug\ReviewTimer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi4-week3\ReviewTimer\ReviewTimer\bin\Debug\ReviewTimer.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi4-week3\ReviewTimer\ReviewTimer\obj\Debug\ReviewTimer.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi4-week3\ReviewTimer\ReviewTimer\obj\Debug\ReviewTimer.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi4-week3\ReviewTimer\ReviewTimer\obj\Debug\ReviewTimer.pdb
